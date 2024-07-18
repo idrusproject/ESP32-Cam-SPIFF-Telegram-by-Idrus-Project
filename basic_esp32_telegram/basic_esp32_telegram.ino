@@ -31,11 +31,11 @@
 
 #define FLASH_LED_PIN 4
 
-const char* ssid = "golitestore.id";
-const char* password = "golitestore.id240722";
+const char* ssid = "xxxxxxx";
+const char* password = "xxxxxx";
 
-String BOT_TOKEN = "7275147013:AAFW6bDN9tnYk-eS587lisu51CDJMuu1zg8";
-String CHAT_ID = "6571702337";
+String BOT_TOKEN = "xxxxxxx";
+String CHAT_ID = "xxxxx";
 
 WiFiClientSecure clientTCP;
 UniversalTelegramBot bot(BOT_TOKEN, clientTCP);
